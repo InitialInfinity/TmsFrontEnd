@@ -57,20 +57,20 @@ const HomePage = () => {
               {/* Project Widget */}
               <Widget
                 icon="fa fa-cubes"
-                value="112"
+                value="-"
                 label="Attended Training"
               />
               {/* Clients Widget */}
-              <Widget icon="fa fa-usd" value="44" label="Not Attend Training" />
+              <Widget icon="fa fa-usd" value="-" label="Not Attend Training" />
               {/* Tasks Widget */}
-              <Widget icon="fa fa-diamond" value="37" label="Passes Training" />
+              <Widget icon="fa fa-diamond" value="-" label="Passes Training" />
               {/* Employees Widget */}
-              <Widget icon="fa fa-user" value="218" label="Failed Training" />
-              <Widget1 icon="fa fa-diamond" value="37" label="Need Training" />
+              <Widget icon="fa fa-user" value="-" label="Failed Training" />
+              <Widget1 icon="fa fa-diamond" value="-" label="Need Training" />
               {/* Employees Widget */}
               <Widget1
                 icon="fa fa-user"
-                value="218"
+                value="-"
                 label="Scheduled Training"
               />
             </div>
@@ -142,66 +142,66 @@ const HomePage = () => {
               {/* New Employees Card */}
               <DashboardInfoCard
                 title="Training Attended"
-                value="10%"
-                progress="70%"
+                value="-"
+                progress="-"
               />
               {/* Earnings Card */}
               <DashboardInfoCard
                 title="Training Not Attended"
-                value="1,42,300"
-                progress="70%"
-                previousValue="1,15,852"
+                value="-"
+                progress="-"
+                previousValue="-"
               />
               {/* Expenses Card */}
               <DashboardInfoCard
                 title="Dept Wise Training Passed"
-                value="8,500"
-                progress="70%"
-                previousValue="7,500"
+                value="-"
+                progress="-"
+                previousValue="-"
               />
               {/* Profit Card */}
               <DashboardInfoCard
                 title="Dept Wise Training Failed"
-                value="1,12,000"
-                progress="70%"
-                previousValue="1,42,000"
+                value="-"
+                progress="-"
+                previousValue="-"
               />
 
               <DashboardInfoCard
                 title="Employee Wise Training Passed"
-                value="1,12,000"
-                progress="70%"
-                previousValue="1,42,000"
+                value="-"
+                progress="-"
+                previousValue="-"
               />
               <DashboardInfoCard
                 title="Employee Wise Training Failed"
-                value="1,12,000"
-                progress="70%"
-                previousValue="1,42,000"
+                value="-"
+                progress="-"
+                previousValue="-"
               />
               <DashboardInfoCard
                 title="Dept Wise Pending Approval"
-                value="1,12,000"
-                progress="70%"
-                previousValue="1,42,000"
+                value="-"
+                progress="-"
+                previousValue="-"
               />
               <DashboardInfoCard
                 title="User Wise Pending Approval"
-                value="1,12,000"
-                progress="70%"
-                previousValue="1,42,000"
+                value="-"
+                progress="-"
+                previousValue="-"
               />
               <DashboardInfoCard
                 title="Dept Wise Training Approved"
-                value="1,12,000"
-                progress="70%"
-                previousValue="1,42,000"
+                value="-"
+                progress="-"
+                previousValue="-"
               />
               <DashboardInfoCard
                 title="User Wise Training Approved"
-                value="1,12,000"
-                progress="70%"
-                previousValue="1,42,000"
+                value="-"
+                progress="-"
+                previousValue="-"
               />
             </div>
           </div>
@@ -225,32 +225,32 @@ const HomePage = () => {
                 {/* Project Widget */}
                 <Widget
                   icon="fa fa-cubes"
-                  value="112"
+                  value="-"
                   label="Attended Training"
                 />
                 {/* Clients Widget */}
                 <Widget
                   icon="fa fa-usd"
-                  value="44"
+                  value="-"
                   label="Not Attend Training"
                 />
                 {/* Tasks Widget */}
                 <Widget
                   icon="fa fa-diamond"
-                  value="37"
+                  value="-"
                   label="Passes Training"
                 />
                 {/* Employees Widget */}
-                <Widget icon="fa fa-user" value="218" label="Failed Training" />
+                <Widget icon="fa fa-user" value="-" label="Failed Training" />
                 <Widget1
                   icon="fa fa-diamond"
-                  value="37"
+                  value="-"
                   label="Need Training"
                 />
                 {/* Employees Widget */}
                 <Widget1
                   icon="fa fa-user"
-                  value="218"
+                  value="-"
                   label="Scheduled Training"
                 />
               </div>
@@ -286,66 +286,66 @@ const HomePage = () => {
                 {/* New Employees Card */}
                 <DashboardInfoCard
                   title="Training Attended"
-                  value="10%"
-                  progress="70%"
+                  value="-"
+                  progress="-"
                 />
                 {/* Earnings Card */}
                 <DashboardInfoCard
                   title="Training Not Attended"
-                  value="1,42,300"
-                  progress="70%"
-                  previousValue="1,15,852"
+                  value="-"
+                  progress="-"
+                  previousValue="-"
                 />
                 {/* Expenses Card */}
                 <DashboardInfoCard
                   title="Dept Wise Training Passed"
-                  value="8,500"
-                  progress="70%"
-                  previousValue="7,500"
+                  value="-"
+                  progress="-"
+                  previousValue="-"
                 />
                 {/* Profit Card */}
                 <DashboardInfoCard
                   title="Dept Wise Training Failed"
-                  value="1,12,000"
-                  progress="70%"
-                  previousValue="1,42,000"
+                  value="-"
+                  progress="-"
+                  previousValue="-"
                 />
 
                 <DashboardInfoCard
                   title="Employee Wise Training Passed"
-                  value="1,12,000"
-                  progress="70%"
-                  previousValue="1,42,000"
+                  value="-"
+                  progress="-"
+                  previousValue="-"
                 />
                 <DashboardInfoCard
                   title="Employee Wise Training Failed"
-                  value="1,12,000"
-                  progress="70%"
-                  previousValue="1,42,000"
+                  value="-"
+                  progress="-"
+                  previousValue="-"
                 />
                 <DashboardInfoCard
                   title="Dept Wise Pending Approval"
-                  value="1,12,000"
-                  progress="70%"
-                  previousValue="1,42,000"
+                  value="-"
+                  progress="-"
+                  previousValue="-"
                 />
                 <DashboardInfoCard
                   title="User Wise Pending Approval"
-                  value="1,12,000"
-                  progress="70%"
-                  previousValue="1,42,000"
+                  value="-"
+                  progress="-"
+                  previousValue="-"
                 />
                 <DashboardInfoCard
                   title="Dept Wise Training Approved"
-                  value="1,12,000"
-                  progress="70%"
-                  previousValue="1,42,000"
+                  value="-"
+                  progress="-"
+                  previousValue="-"
                 />
                 <DashboardInfoCard
                   title="User Wise Training Approved"
-                  value="1,12,000"
-                  progress="70%"
-                  previousValue="1,42,000"
+                  value="-"
+                  progress="-"
+                  previousValue="-"
                 />
               </div>
             </div>
@@ -458,9 +458,9 @@ function DashboardInfoCard({ title, value, progress, previousValue }) {
               className="progress-bar bg-primary"
               role="progressbar"
               style={{ width: progress }}
-              aria-valuenow="40"
-              aria-valuemin="0"
-              aria-valuemax="100"
+              aria-valuenow="-"
+              aria-valuemin="-"
+              aria-valuemax="-"
             ></div>
           </div>
           {previousValue && (
@@ -486,7 +486,7 @@ function StatisticsSection() {
               <p>
                 Training Need
                 <strong>
-                  4 <small>/ 65</small>
+                - <small>/ -</small>
                 </strong>
               </p>
               <div className="progress">
@@ -494,9 +494,9 @@ function StatisticsSection() {
                   className="progress-bar bg-primary"
                   role="progressbar"
                   style={{ width: "31%" }}
-                  aria-valuenow="31"
-                  aria-valuemin="0"
-                  aria-valuemax="100"
+                  aria-valuenow="-"
+                  aria-valuemin="-"
+                  aria-valuemax="-"
                 ></div>
               </div>
             </div>
@@ -504,7 +504,7 @@ function StatisticsSection() {
               <p>
                 Training Schedule
                 <strong>
-                  15 <small>/ 92</small>
+                - <small>/ -</small>
                 </strong>
               </p>
               <div className="progress">
@@ -512,9 +512,9 @@ function StatisticsSection() {
                   className="progress-bar bg-warning"
                   role="progressbar"
                   style={{ width: "31%" }}
-                  aria-valuenow="31"
-                  aria-valuemin="0"
-                  aria-valuemax="100"
+                  aria-valuenow="-"
+                  aria-valuemin="-"
+                  aria-valuemax="-"
                 ></div>
               </div>
             </div>
@@ -522,7 +522,7 @@ function StatisticsSection() {
               <p>
                 Training Pass
                 <strong>
-                  85 <small>/ 112</small>
+                - <small>/ -</small>
                 </strong>
               </p>
               <div className="progress">
@@ -530,9 +530,9 @@ function StatisticsSection() {
                   className="progress-bar bg-success"
                   role="progressbar"
                   style={{ width: "62%" }}
-                  aria-valuenow="62"
-                  aria-valuemin="0"
-                  aria-valuemax="100"
+                  aria-valuenow="-"
+                  aria-valuemin="-"
+                  aria-valuemax="-"
                 ></div>
               </div>
             </div>
@@ -540,7 +540,7 @@ function StatisticsSection() {
               <p>
                 Training Fail
                 <strong>
-                  190 <small>/ 212</small>
+                - <small>/ -</small>
                 </strong>
               </p>
               <div className="progress">
@@ -548,9 +548,9 @@ function StatisticsSection() {
                   className="progress-bar bg-danger"
                   role="progressbar"
                   style={{ width: "62%" }}
-                  aria-valuenow="62"
-                  aria-valuemin="0"
-                  aria-valuemax="100"
+                  aria-valuenow="-"
+                  aria-valuemin="-"
+                  aria-valuemax="-"
                 ></div>
               </div>
             </div>
@@ -558,7 +558,7 @@ function StatisticsSection() {
               <p>
                 Training Feedback Given
                 <strong>
-                  22 <small>/ 212</small>
+                - <small>/ -</small>
                 </strong>
               </p>
               <div className="progress">
@@ -566,9 +566,9 @@ function StatisticsSection() {
                   className="progress-bar bg-purple"
                   role="progressbar"
                   style={{ width: "22%" }}
-                  aria-valuenow="22"
-                  aria-valuemin="0"
-                  aria-valuemax="100"
+                  aria-valuenow="-"
+                  aria-valuemin="-"
+                  aria-valuemax="-"
                 ></div>
               </div>
             </div>
@@ -576,7 +576,7 @@ function StatisticsSection() {
               <p>
                 Training Feedback Pending
                 <strong>
-                  22 <small>/ 212</small>
+                - <small>/ -</small>
                 </strong>
               </p>
               <div className="progress">
@@ -584,9 +584,9 @@ function StatisticsSection() {
                   className="progress-bar bg-primary"
                   role="progressbar"
                   style={{ width: "22%" }}
-                  aria-valuenow="22"
-                  aria-valuemin="0"
-                  aria-valuemax="100"
+                  aria-valuenow="-"
+                  aria-valuemin="-"
+                  aria-valuemax="-"
                 ></div>
               </div>
             </div>
@@ -594,7 +594,7 @@ function StatisticsSection() {
               <p>
                 Training Approval Pending
                 <strong>
-                  22 <small>/ 212</small>
+                - <small>/ -</small>
                 </strong>
               </p>
               <div className="progress">
@@ -602,9 +602,9 @@ function StatisticsSection() {
                   className="progress-bar bg-info"
                   role="progressbar"
                   style={{ width: "22%" }}
-                  aria-valuenow="22"
-                  aria-valuemin="0"
-                  aria-valuemax="100"
+                  aria-valuenow="-"
+                  aria-valuemin="-"
+                  aria-valuemax="-"
                 ></div>
               </div>
             </div>
@@ -612,7 +612,7 @@ function StatisticsSection() {
               <p>
                 Training Approval Done
                 <strong>
-                  22 <small>/ 212</small>
+                - <small>/ -</small>
                 </strong>
               </p>
               <div className="progress">
@@ -620,9 +620,9 @@ function StatisticsSection() {
                   className="progress-bar bg-dark"
                   role="progressbar"
                   style={{ width: "22%" }}
-                  aria-valuenow="22"
-                  aria-valuemin="0"
-                  aria-valuemax="100"
+                  aria-valuenow="-"
+                  aria-valuemin="-"
+                  aria-valuemax="-"
                 ></div>
               </div>
             </div>
@@ -644,13 +644,13 @@ function TaskStatisticsSection() {
               <div className="col-md-6 col-6 text-center">
                 <div className="stats-box mb-4">
                   <p>Training Need</p>
-                  <h3>385</h3>
+                  <h3>-</h3>
                 </div>
               </div>
               <div className="col-md-6 col-6 text-center">
                 <div className="stats-box mb-4">
                   <p>Training Schedule</p>
-                  <h3>19</h3>
+                  <h3>-</h3>
                 </div>
               </div>
             </div>
@@ -660,115 +660,115 @@ function TaskStatisticsSection() {
               className="progress-bar bg-purple"
               role="progressbar"
               style={{ width: "30%" }}
-              aria-valuenow={30}
-              aria-valuemin={0}
-              aria-valuemax={100}
+              aria-valuenow="-"
+              aria-valuemin="-"
+              aria-valuemax="-"
             >
-              30%
+              -
             </div>
             <div
               className="progress-bar bg-warning"
               role="progressbar"
               style={{ width: "22%" }}
-              aria-valuenow={22}
-              aria-valuemin={0}
-              aria-valuemax={100}
+              aria-valuenow="-"
+              aria-valuemin="-"
+              aria-valuemax="-"
             >
-              22%
+              -
             </div>
             <div
               className="progress-bar bg-success"
               role="progressbar"
               style={{ width: "24%" }}
-              aria-valuenow={24}
-              aria-valuemin={0}
-              aria-valuemax={100}
+              aria-valuenow="-"
+              aria-valuemin="-"
+              aria-valuemax="-"
             >
-              24%
+              -
             </div>
             <div
               className="progress-bar bg-danger"
               role="progressbar"
               style={{ width: "26%" }}
-              aria-valuenow={26}
-              aria-valuemin={0}
-              aria-valuemax={100}
+              aria-valuenow="-"
+              aria-valuemin="-"
+              aria-valuemax="-"
             >
-              21%
+             -
             </div>
             <div
               className="progress-bar bg-info"
               role="progressbar"
               style={{ width: "10%" }}
-              aria-valuenow={10}
-              aria-valuemin={0}
-              aria-valuemax={100}
+              aria-valuenow="-"
+              aria-valuemin="-"
+              aria-valuemax="-"
             >
-              10%
+              -
             </div>
             <div
               className="progress-bar bg-primary"
               role="progressbar"
               style={{ width: "10%" }}
-              aria-valuenow={30}
-              aria-valuemin={0}
-              aria-valuemax={100}
+              aria-valuenow="-"
+              aria-valuemin="-"
+              aria-valuemax="-"
             >
-              10%
+            -
             </div>
             <div
               className="progress-bar bg-info"
               role="progressbar"
               style={{ width: "10%" }}
-              aria-valuenow={20}
-              aria-valuemin={0}
-              aria-valuemax={100}
+              aria-valuenow="-"
+              aria-valuemin="-"
+              aria-valuemax="-"
             >
-              10%
+             -
             </div>
             <div
               className="progress-bar bg-dark"
               role="progressbar"
               style={{ width: "10%" }}
-              aria-valuenow={10}
-              aria-valuemin={0}
-              aria-valuemax={100}
+              aria-valuenow="-"
+              aria-valuemin="-"
+              aria-valuemax="-"
             >
-              10%
+             -
             </div>
           </div>
           <div>
             <p>
               <i className="fa fa-dot-circle-o text-purple me-2"></i>Training
-              Need<span className="float-right">166</span>
+              Need<span className="float-right">-</span>
             </p>
             <p>
               <i className="fa fa-dot-circle-o text-warning me-2 mt-3"></i>
-              Training Schedule<span className="float-right">115</span>
+              Training Schedule<span className="float-right">-</span>
             </p>
             <p>
               <i className="fa fa-dot-circle-o text-success me-2 mt-3"></i>
-              Training Pass<span className="float-right">31</span>
+              Training Pass<span className="float-right">-</span>
             </p>
             <p>
               <i className="fa fa-dot-circle-o text-danger me-2 mt-3"></i>
-              PTraining Fail <span className="float-right">47</span>
+              PTraining Fail <span className="float-right">-</span>
             </p>
             <p className="mb-0">
               <i className="fa fa-dot-circle-o text-info me-2 mt-3"></i>Training
-              Feedback Given<span className="float-right">15</span>
+              Feedback Given<span className="float-right">-</span>
             </p>
             <p className="mb-0">
               <i className="fa fa-dot-circle-o text-primary me-2 mt-3"></i>
-              Training Feedback Pending<span className="float-right">28</span>
+              Training Feedback Pending<span className="float-right">-</span>
             </p>
             <p className="mb-0">
               <i className="fa fa-dot-circle-o text-info me-2 mt-3"></i>Training
-              Approval Pending<span className="float-right">35</span>
+              Approval Pending<span className="float-right">-</span>
             </p>
             <p className="mb-0">
               <i className="fa fa-dot-circle-o text-dark me-2 mt-3"></i>Training
-              Approval Done<span className="float-right">22</span>
+              Approval Done<span className="float-right">-</span>
             </p>
           </div>
         </div>
